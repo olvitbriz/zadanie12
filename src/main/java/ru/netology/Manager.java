@@ -16,6 +16,7 @@ public class Manager {
 
 
 
+
     public Product[] searchBy(String text) {
 
 
